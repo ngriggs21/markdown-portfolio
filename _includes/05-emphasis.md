@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Good at writing randomness that comes to mind*
+**Horrible at getting to bed on time**
